@@ -167,19 +167,15 @@ else if (speed <= 10.0f)
 | 2022.08 ~ | 소스 코드 분석 및 구조 파악<br>카메라 무빙 연출 이벤트 시스템 개발<br>랭킹 UI 및 버그 수정 |
 | 2022.12 ~ | 영문 버전 UI 텍스트 대응<br>다국어 지원 구조 반영<br>영문 Google Play 버전 빌드 |
 
-<p align="center">
-  <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e2f99466-a000-466b-8bb9-057464addb98" width="400">
-</p>
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e2f99466-a000-466b-8bb9-057464addb98" width="400">
+
 
 ---
 
 ## 🌐 Google Play 출시
 
 - [📱 사이클링 투어 (영문 버전) Google Play Store](https://play.google.com/store/apps/details?id=com.gateways.cyclingtour_en&hl=ko&gl=US)
-
-<p align="center">
-  <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f96b3ba1-fd64-4609-b1fc-e8a1d427da14" width="500">
-</p>
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f96b3ba1-fd64-4609-b1fc-e8a1d427da14" width="500">
 
 ---
 
@@ -188,12 +184,10 @@ else if (speed <= 10.0f)
 <details>
 <summary>📷 센서 이미지 보기</summary>
 <br>
-
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/4b84d9a0-569c-4027-810c-6f1f1b34545c" width="45%">
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f4bcd9c6-b792-4473-a7ad-4d5238edf4ea" width="45%">
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/94416305-db7d-4df0-9d3b-84c33f463936" width="45%">
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/c04f962c-05e9-474a-b15e-67cdce735753" width="45%">
-
 </details>
 
 ---
